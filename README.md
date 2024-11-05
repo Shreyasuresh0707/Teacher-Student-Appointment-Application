@@ -11,11 +11,11 @@ Backend: JS, PHP
 Database: MySQL (or any other SQL database)
 ## Installation
 ### Clone the repository:
-'''
-git clone https://github.com/your-username/teacher-student-appointment.git
+```
+git clone https://github.com/Shreyasuresh0707/teacher-student-appointment.git
 cd teacher-student-appointment
 
-'''
+```
 ### Setup Database
 - Import the SQL file (located in the /database folder) into your MySQL database.
 
